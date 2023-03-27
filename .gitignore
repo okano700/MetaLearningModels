@@ -1,0 +1,5 @@
+checkpoints/*
+lstm/*
+.ipynb_checkpoints/*
+utils/.ipynb_checkpoints/*
+utils/__pycache__/*
